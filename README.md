@@ -6,7 +6,7 @@
 <div align="center">
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,2,24&height=300&section=header&text=ANSH%20JAISWAL&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=🚀%20Aspiring%20Software%20Engineer%20·%20AI%20Builder%20·%20Class%20of%202028&descSize=17&descColor=00d4ff&descAlignY=62&stroke=00d4ff&strokeWidth=2"/>
+<img width="100%" src="Assets/header.svg" alt="Ansh Jaiswal"/>
 
 <!-- ══════════════ TYPING ANIMATION ══════════════ -->
 <br/>
