@@ -10,7 +10,7 @@
 
 <!-- ══════════════ TYPING ANIMATION ══════════════ -->
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&random=false&width=800&height=55&lines=🚀+Aspiring+Software+Engineer+%7C+2×+AI+Intern;⚡+Python+·+React+·+Generative+AI+·+Gemini+API;🤖+Built+CLUTCH+—+Agentic+AI+Deadline+Rescue+System;🎓+B.Tech+IT+%40+AKTU+·+Prayagraj+·+Class+of+2028;💡+6.2K%2B+LinkedIn+Followers+%26+Growing+Daily;🌟+Open+to+Internships+%7C+I+Reply+within+24+Hours" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&random=false&width=800&height=55&lines=🚀+Aspiring+Software+Engineer+%7C+2×+AI+Intern;⚡+Python+·+React+·+Generative+AI+·+Gemini+API;🤖+Built+CLUTCH+—+Agentic+AI+Deadline+System;🎓+B.Tech+IT+%40+AKTU+·+Prayagraj+·+Class+of+2028;💡+6.2K%2B+LinkedIn+Followers+%26+Growing;🌟+Open+to+Internships+%7C+Reply+in+24+hrs" alt="Typing SVG"/>
 
 <br/><br/>
 
@@ -109,7 +109,7 @@ I'm not waiting for graduation to matter. I'm already building.
 
 | Metric | Details |
 |---|---|
-| Stack | React 18 · Vite · Zustand · Google Gemini 2.5 Flash · Firebase Hosting |
+| Stack | React 18 · Vite · Zustand · Google Gemini 1.5 Flash · Firebase Hosting |
 | Architecture | 5 autonomous AI agents orchestrated in sequence |
 | Build Time | 7 days (Hackathon speed-build) |
 | Performance | AI priority matrix generated in under 10 seconds |
