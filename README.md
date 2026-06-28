@@ -39,10 +39,12 @@
 ---
 
 <div align="center">
-<img width="100%" src="Assets/hero-banner.gif" alt="Ansh Jaiswal - Superhero Software Engineer"/>
+<img width="100%" src="hero-banner.gif" alt="Ansh Jaiswal - Superhero Software Engineer"/>
 </div>
 
 ---
+
+<img width="100%" src="Assets/about.svg"/>
 
 ## 🧑‍💻 About Me
 
@@ -63,6 +65,8 @@ I'm not waiting for graduation to matter. I'm already building.
 - Hackathons & Tech Competitions
 
 ---
+
+<img width="100%" src="Assets/techstack.svg"/>
 
 ## 🛠️ Tech Stack
 
@@ -213,6 +217,8 @@ Building_Next:
 
 ---
 
+<img width="100%" src="Assets/analytics.svg"/>
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -228,6 +234,8 @@ Building_Next:
 </div>
 
 ---
+
+<img width="100%" src="Assets/trophies.svg"/>
 
 ## 🏆 GitHub Trophies
 
@@ -248,6 +256,8 @@ Building_Next:
 </div>
 
 ---
+
+<img width="100%" src="Assets/snake-banner.svg"/>
 
 ## 🐍 Contribution Snake
 
