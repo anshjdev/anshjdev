@@ -109,7 +109,7 @@ I'm not waiting for graduation to matter. I'm already building.
 
 | Metric | Details |
 |---|---|
-| Stack | React 18 · Vite · Zustand · Google Gemini 1.5 Flash · Firebase Hosting |
+| Stack | React 18 · Vite · Zustand · Google Gemini 2.5 Flash · Firebase Hosting |
 | Architecture | 5 autonomous AI agents orchestrated in sequence |
 | Build Time | 7 days (Hackathon speed-build) |
 | Performance | AI priority matrix generated in under 10 seconds |
