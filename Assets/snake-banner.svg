@@ -1,0 +1,17 @@
+<svg width="1280" height="60" viewBox="0 0 1280 60" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>@keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}.bar{animation:pulse 2s ease-in-out infinite}</style>
+  <linearGradient id="g5" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#0d1117"/>
+    <stop offset="15%" stop-color="#001800"/>
+    <stop offset="50%" stop-color="#002800"/>
+    <stop offset="85%" stop-color="#001800"/>
+    <stop offset="100%" stop-color="#0d1117"/>
+  </linearGradient>
+  <filter id="glow"><feGaussianBlur in="SourceAlpha" stdDeviation="4" result="b"/><feColorMatrix in="b" values="0 0 0 0 0  0.8 0 0 0 0  0 0 0 0 0  0 0 0 1 0"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1280" height="60" fill="url(#g5)"/>
+<line class="bar" x1="0" y1="1" x2="1280" y2="1" stroke="#00ff88" stroke-width="1.5" opacity=".5"/>
+<line class="bar" x1="0" y1="59" x2="1280" y2="59" stroke="#00ff88" stroke-width="1.5" opacity=".5"/>
+<text x="640" y="38" text-anchor="middle" font-family="'Arial Black',Impact,sans-serif" font-size="22" font-weight="900" letter-spacing="6" fill="#00ff88" filter="url(#glow)">🐍 CONTRIBUTION SNAKE</text>
+</svg>
