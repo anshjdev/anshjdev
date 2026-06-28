@@ -46,7 +46,6 @@
 
 <img width="100%" src="Assets/about.svg"/>
 
-## 🧑‍💻 About Me
 
 I am **Ansh Jaiswal**, an Information Technology undergraduate at **Dr. A.P.J. Abdul Kalam Technical University (AKTU)**, Class of 2028 — with a deep-rooted passion for **Software Engineering**, **Artificial Intelligence**, and **building things that ship**.
 
