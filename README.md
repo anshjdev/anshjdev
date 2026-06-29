@@ -223,7 +223,13 @@ Building_Next:
 
 <div align="center">
 
-<img width="100%" src="Assets/stats-neon.svg" alt="GitHub Analytics"/>
+<img height="185" src="https://github-readme-stats.vercel.app/api?username=anshjdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=7b2fff&ring_color=00d4ff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+&nbsp;
+<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshjdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8&card_width=320" alt="Top Languages"/>
+
+<br/><br/>
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshjdev&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2fff&fire=ff6b35&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
 
 </div>
 
@@ -235,7 +241,7 @@ Building_Next:
 
 <div align="center">
 
-<img width="100%" src="Assets/trophies-neon.svg" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anshjdev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
@@ -245,7 +251,7 @@ Building_Next:
 
 <div align="center">
 
-<img width="100%" src="Assets/activity-neon.svg" alt="Contribution Activity"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshjdev&bg_color=0d1117&color=00d4ff&line=7b2fff&point=ff6b35&area=true&hide_border=true&custom_title=Ansh%27s%20Contribution%20Graph&theme=tokyo-night" alt="Contribution Activity Graph"/>
 
 </div>
 
