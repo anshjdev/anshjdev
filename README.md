@@ -223,13 +223,13 @@ Building_Next:
 
 <div align="center">
 
-<img height="185" src="https://github-readme-stats.vercel.app/api?username=anshjdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=7b2fff&ring_color=00d4ff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-&nbsp;
-<img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshjdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8&card_width=320" alt="Top Languages"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=anshjdev&show_icons=true&hide_border=false&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=7b2fff&ring_color=00d4ff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshjdev&layout=compact&hide_border=false&bg_color=0d1117&border_color=7b2fff&title_color=7b2fff&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshjdev&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2fff&fire=ff6b35&currStreakNum=00d4ff&sideNums=ffffff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=888888" alt="GitHub Streak"/>
+<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshjdev&hide_border=false&background=0D1117&border=00D4FF&stroke=00D4FF&ring=7B2FFF&fire=FF6B35&currStreakNum=00D4FF&sideNums=FFFFFF&currStreakLabel=7B2FFF&sideLabels=00D4FF&dates=8B949E" alt="GitHub Streak"/>
 
 </div>
 
@@ -241,7 +241,7 @@ Building_Next:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anshjdev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" alt="GitHub Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=anshjdev&theme=tokyonight&no-frame=false&margin-w=10&margin-h=10&row=2&column=4&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage,Joined2020" alt="GitHub Trophies"/>
 
 </div>
 
@@ -251,7 +251,7 @@ Building_Next:
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshjdev&bg_color=0d1117&color=00d4ff&line=7b2fff&point=ff6b35&area=true&hide_border=true&custom_title=Ansh%27s%20Contribution%20Graph&theme=tokyo-night" alt="Contribution Activity Graph"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=anshjdev&bg_color=0d1117&color=00d4ff&line=7b2fff&point=ff6b35&area=true&area_color=7b2fff&hide_border=false&border_color=00d4ff&custom_title=Ansh%27s%20Contribution%20Graph&title_color=00d4ff&radius=8" alt="Contribution Activity Graph"/>
 
 </div>
 
