@@ -95,13 +95,11 @@ I'm not waiting for graduation to matter. I'm already building.
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Full Stack Development | **Learning** | React, FastAPI, Django, Node.js end-to-end |
-| Generative AI & LLMs | **Advanced** | Prompt engineering, Gemini API, LLM orchestration |
-| AI Automation | **Learning** | Saved 5+ hrs/week with agentic AI workflows |
-| Agentic Systems | **Intermediate** | Multi-agent pipelines, tool use, Gemini 1.5 Flash |
-| Cloud & DevOps | **Intermediate** | Firebase, AWS, Docker deployments |
-| System Design | **Intermediate** | Scalable architectures, REST APIs |
-| AI Content & Communication | **Advanced** | Technical writing, video production, educational AI content |
+| Full Stack Development | **Advanced** | React, FastAPI, Django, Node.js |
+| Generative AI & LLMs | **Advanced** | Prompt engineering, Gemini API |
+| AI Automation | **Advanced** | Saved 5+ hrs/week with agentic workflows |
+| Agentic Systems | **Intermediate** | Multi-agent pipelines, Gemini 1.5 Flash |
+| Cloud & DevOps | **Intermediate** | Firebase, AWS, Docker |
 
 ---
 
@@ -109,33 +107,12 @@ I'm not waiting for graduation to matter. I'm already building.
 
 ### ⚡ CLUTCH — Agentic AI Deadline Rescue System
 
-> *"Raat ke 2 baj rahe hain. Assignment kal subah 9 baje submit karni hai. CLUTCH rescues you."*
+> *"Raat ke 2 baj rahe hain. CLUTCH doesn't remind you — it rescues you."*
 
-| Metric | Details |
-|---|---|
-| Stack | React 18 · Vite · Zustand · Google Gemini 1.5 Flash · Firebase Hosting |
-| Architecture | 5 autonomous AI agents orchestrated in sequence |
-| Build Time | 7 days (Hackathon speed-build) |
-| Performance | AI priority matrix generated in under 10 seconds |
-| Scale | Handles any student / professional deadline crisis |
-| Repository | [github.com/anshjdev/Clutch](https://github.com/anshjdev/Clutch) |
-| Live App | [lnkd.in/ggMYm-ev](https://lnkd.in/ggMYm-ev) |
+5 autonomous AI agents · React 18, Vite, Gemini 1.5 Flash, Firebase · Built in 7 days for **Vibe2Ship 2026** (Coding Ninjas × Google)
 
-#### 🤖 The 5 Agents
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║  ⚡  CLUTCH — AI DEADLINE RESCUE SYSTEM                      ║
-╠══════════════════════════════════════════════════════════════╣
-║  🧠 Triage Agent    → AI priority matrix in 10 seconds      ║
-║  📋 Rescue Agent    → Micro-actions with time per step      ║
-║  📊 Survival Agent  → Honest 0–100% probability score       ║
-║  📸 Snap Agent      → Gemini Vision reads assignment photo  ║
-║  🗓️  Schedule Agent  → AI books your calendar time blocks   ║
-╠══════════════════════════════════════════════════════════════╣
-║  Built for: Vibe2Ship 2026 · Coding Ninjas × Google 🏆     ║
-╚══════════════════════════════════════════════════════════════╝
-```
+- 🧠 **Triage** — priority matrix in 10s &nbsp;·&nbsp; 📋 **Rescue Plan** — step-by-step micro-actions
+- 📊 **Survival Score** — 0–100% honest probability &nbsp;·&nbsp; 📸 **Snap & Plan** — Gemini Vision reads your assignment
 
 [![Live App](https://img.shields.io/badge/🔗_Live_App-CLUTCH-00d4ff?style=for-the-badge&labelColor=0d1117)](https://lnkd.in/ggMYm-ev)
 [![Repository](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/anshjdev/Clutch)
@@ -144,75 +121,28 @@ I'm not waiting for graduation to matter. I'm already building.
 
 ## 💼 Experience
 
-### 🏢 AI Agent Bros &nbsp;|&nbsp; Content & Video Editing Intern
-**September 2025 – February 2026 &nbsp;·&nbsp; 6 months &nbsp;·&nbsp; Remote, India**
+**🏢 AI Agent Bros** — Content & Video Editing Intern &nbsp;·&nbsp; *Sep 2025 – Feb 2026, 6 months*
+- 20+ educational AI videos → 15%+ audience growth, 100% on-time delivery
+- AI-assisted workflows cut video turnaround time by ~30%
 
-| Metric | Result |
-|---|---|
-| Content Output | 20+ educational AI videos (ChatGPT, Gemini, Canva AI) |
-| Audience Impact | 15%+ growth in engagement over 6 months |
-| Speed Gain | ~30% faster video turnaround via AI-assisted workflows |
-| Delivery | 100% on-time across 6 months of weekly content |
-
-**Skills:** Generative AI · Video Editing · AI Scripting · Technical Communication
-
----
-
-### 🏢 Radian Marketing &nbsp;|&nbsp; AI Intern
-**September 2025 – December 2025 &nbsp;·&nbsp; 4 months &nbsp;·&nbsp; Remote, India**
-
-| Metric | Result |
-|---|---|
-| Time Saved | ~5 hrs/week by automating 3 recurring marketing tasks with AI |
-| Campaign Speed | 40% faster content output via LLM-based generation pipelines |
-| Analytics | Analysed 2+ channels; surfaced trends for budget reallocation |
-| Team Impact | Built reusable prompt engineering templates used across the team |
-
-**Skills:** Prompt Engineering · AI Automation · Marketing Analytics · LLMs
+**🏢 Radian Marketing** — AI Intern &nbsp;·&nbsp; *Sep – Dec 2025, 4 months*
+- Saved ~5 hrs/week automating marketing tasks with AI; 40% faster content output
+- Built reusable prompt engineering templates used across the team
 
 ---
 
 ## 🏅 Certifications
 
-| Certification | Organization | Core Skills |
-|---|---|---|
-| Gemini Certified University Student | Google | Gemini API · Generative AI · Multimodal AI |
-| Deloitte Australia Technology Job Simulation | Deloitte × Forage | Python · Data Analysis · Software Dev |
-| Master React Basics | Industry | React.js · Component Architecture · Hooks |
-| Building an E-Commerce React App | Industry | React · State Management · UI Dev |
-| Mobile App Development | Industry | Mobile UI · App Engineering |
-| Prompt Engineering | Industry | LLM Prompting · AI Workflows · Chain-of-Thought |
+`Gemini Certified (Google)` `Deloitte Tech Job Simulation` `React Mastery` `E-Commerce React App` `Mobile App Development` `Prompt Engineering`
 
 ---
 
 ## 🗺️ Learning Roadmap
 
 ```yaml
-Completed:
-  - Gemini API Certified (Google)
-  - Deloitte Technology Job Simulation (Forage)
-  - React Mastery — Basics + E-Commerce App Build
-  - Mobile App Development Certification
-  - Prompt Engineering Certification
-  - CLUTCH — 5-Agent Agentic AI System (Vibe2Ship 2026)
-  - 2 AI/Tech Internships — 10 months total real-world XP
-
-Currently_Focused_On:
-  - Advanced System Design & Architecture
-  - Full Stack AI Engineering
-  - LLM Orchestration & Agentic Frameworks
-  - Vector Databases & RAG Systems
-  - AWS Cloud Architecture
-
-Next_Target_Certifications:
-  - AWS Cloud Practitioner
-  - Google Cloud Professional AI Engineer
-  - Microsoft AI-900
-
-Building_Next:
-  - AI-powered Full Stack SaaS product
-  - Open source AI developer tooling
-  - Personal developer portfolio site
+Completed: CLUTCH (Vibe2Ship 2026) · 2 AI Internships · React, Gemini, Mobile Dev certs
+Currently: System Design · AWS · LLM Orchestration · Vector DBs
+Next: AWS Cloud Practitioner · Google Cloud AI · Microsoft AI-900
 ```
 
 ---
@@ -223,7 +153,7 @@ Building_Next:
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=anshjdev&show_icons=true&hide_border=false&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=7b2fff&ring_color=00d4ff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api?username=anshjdev&show_icons=true&hide_border=false&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=7b2fff&ring_color=00d4ff" alt="GitHub Stats"/>
 &nbsp;&nbsp;
 <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshjdev&layout=compact&hide_border=false&bg_color=0d1117&border_color=7b2fff&title_color=7b2fff&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
@@ -276,27 +206,9 @@ Building_Next:
 ## 🔭 Current Focus
 
 ```yaml
-Learning:
-  - System Design & Scalable Architecture
-  - AWS Cloud Computing & Infrastructure
-  - LLM Orchestration & Agentic AI Frameworks
-  - Advanced DSA for Technical Interviews
-
-Building:
-  - AI-Powered Full Stack Web Applications
-  - Agentic Workflow & Automation Tools
-  - Open Source Developer Utilities
-
-Exploring:
-  - Vector DBs & RAG Pipelines (Pinecone, Weaviate)
-  - Multi-Agent AI Architectures
-  - Distributed Systems Fundamentals
-
-Open_To:
-  - Software Engineering Internships
-  - AI/ML Engineering Roles
-  - Open Source Collaboration
-  - Research Opportunities & Hackathons
+Building: AI-powered Full Stack apps · Agentic automation tools
+Exploring: Vector DBs & RAG · Multi-Agent AI Architectures
+Open_To: SWE Internships · AI/ML Roles · Hackathons · Open Source
 ```
 
 ---
