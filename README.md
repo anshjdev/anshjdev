@@ -95,9 +95,9 @@ I'm not waiting for graduation to matter. I'm already building.
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Full Stack Development | **Advanced** | React, FastAPI, Django, Node.js |
+| Full Stack Development | **Learning** | React, FastAPI, Django, Node.js |
 | Generative AI & LLMs | **Advanced** | Prompt engineering, Gemini API |
-| AI Automation | **Advanced** | Saved 5+ hrs/week with agentic workflows |
+| AI Automation | **Learning** | Saved 5+ hrs/week with agentic workflows |
 | Agentic Systems | **Intermediate** | Multi-agent pipelines, Gemini 1.5 Flash |
 | Cloud & DevOps | **Intermediate** | Firebase, AWS, Docker |
 
