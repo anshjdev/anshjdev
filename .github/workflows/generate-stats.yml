@@ -23,12 +23,12 @@ jobs:
 
       - name: 🔥 Generate Neon Stats SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_PAT: ${{ secrets.GH_PAT }}
         run: |
           python3 << 'PYEOF'
           import os, requests, json
 
-          token = os.environ['GITHUB_TOKEN']
+          token = os.environ['GH_PAT']
           username = 'anshjdev'
           headers = {'Authorization': f'bearer {token}', 'Content-Type': 'application/json'}
 
