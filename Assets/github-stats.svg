@@ -1,0 +1,90 @@
+<svg width="860" height="430" viewBox="0 0 860 430" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    @keyframes p{0%,100%{opacity:.8}50%{opacity:1}}
+    @keyframes nc{0%,100%{filter:drop-shadow(0 0 6px #00d4ff) drop-shadow(0 0 14px #00d4ff)}50%{filter:drop-shadow(0 0 12px #00d4ff) drop-shadow(0 0 28px #00d4ff)}}
+    @keyframes no{0%,100%{filter:drop-shadow(0 0 6px #ff6b35) drop-shadow(0 0 14px #ff6b35)}50%{filter:drop-shadow(0 0 12px #ff6b35) drop-shadow(0 0 28px #ff6b35)}}
+    @keyframes np{0%,100%{filter:drop-shadow(0 0 6px #7b2fff) drop-shadow(0 0 14px #7b2fff)}50%{filter:drop-shadow(0 0 12px #7b2fff) drop-shadow(0 0 28px #7b2fff)}}
+    @keyframes nb{0%,100%{filter:drop-shadow(0 0 6px #58a6ff) drop-shadow(0 0 14px #58a6ff)}50%{filter:drop-shadow(0 0 12px #58a6ff) drop-shadow(0 0 28px #58a6ff)}}
+    @keyframes gr{0%,100%{opacity:.04}50%{opacity:.09}}
+    .cn{animation:nc 3s ease-in-out infinite} .co{animation:no 3s ease-in-out infinite .5s}
+    .cp{animation:np 3s ease-in-out infinite 1s} .cb{animation:nb 3s ease-in-out infinite 1.5s}
+    .pu{animation:p 3s ease-in-out infinite} .gr{animation:gr 4s ease-in-out infinite}
+  </style>
+  <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#050510"/>
+    <stop offset="40%" stop-color="#001025"/>
+    <stop offset="70%" stop-color="#0d0020"/>
+    <stop offset="100%" stop-color="#050510"/>
+  </linearGradient>
+  <filter id="fc"><feGaussianBlur in="SourceAlpha" stdDeviation="2" result="b"/><feColorMatrix in="b" values="0 0 0 0 0  0 0 0 0 .83  0 0 0 0 1  0 0 0 1 0"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="fo"><feGaussianBlur in="SourceAlpha" stdDeviation="2" result="b"/><feColorMatrix in="b" values="1 0 0 0 0  .42 0 0 0 0  0 0 0 0 0  0 0 0 1 0"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="fp"><feGaussianBlur in="SourceAlpha" stdDeviation="2" result="b"/><feColorMatrix in="b" values=".48 0 0 0 0  0 .18 0 0 1  0 0 0 0 1  0 0 0 1 0"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <filter id="fb"><feGaussianBlur in="SourceAlpha" stdDeviation="2" result="b"/><feColorMatrix in="b" values="0 0 0 0 .35  0 0 0 0 .65  0 0 0 0 1  0 0 0 1 0"/><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="860" height="430" rx="16" fill="url(#bg)"/>
+<rect width="860" height="430" rx="16" fill="none" stroke="#00d4ff" stroke-width="1.5" stroke-opacity=".5"/>
+<g class="gr" stroke="#00d4ff" stroke-width=".5">
+  <line x1="0" y1="43" x2="860" y2="43"/><line x1="0" y1="86" x2="860" y2="86"/>
+  <line x1="0" y1="129" x2="860" y2="129"/><line x1="0" y1="172" x2="860" y2="172"/>
+  <line x1="0" y1="215" x2="860" y2="215"/><line x1="0" y1="258" x2="860" y2="258"/>
+  <line x1="0" y1="301" x2="860" y2="301"/><line x1="0" y1="344" x2="860" y2="344"/>
+  <line x1="0" y1="387" x2="860" y2="387"/>
+  <line x1="172" y1="0" x2="172" y2="430"/><line x1="344" y1="0" x2="344" y2="430"/>
+  <line x1="516" y1="0" x2="516" y2="430"/><line x1="688" y1="0" x2="688" y2="430"/>
+</g>
+
+<!-- Title -->
+<text class="pu" x="430" y="36" text-anchor="middle" font-family="'Arial Black',Impact,sans-serif" font-size="15" font-weight="900" letter-spacing="4" fill="#00d4ff" filter="url(#fc)">📊 ANSH JAISWAL · GITHUB STATS</text>
+
+<!-- STAT CARDS ROW -->
+<!-- Commits -->
+<rect x="20" y="52" width="190" height="100" rx="10" fill="rgba(0,212,255,.07)" stroke="#00d4ff" stroke-width="1" stroke-opacity=".4"/>
+<text class="cn" x="115" y="120" text-anchor="middle" font-family="'Arial Black',Impact,sans-serif" font-size="46" font-weight="900" fill="#00d4ff" filter="url(#fc)">73</text>
+<text x="115" y="144" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#8b949e" letter-spacing="2">COMMITS</text>
+
+<!-- PRs -->
+<rect x="225" y="52" width="190" height="100" rx="10" fill="rgba(123,47,255,.07)" stroke="#7b2fff" stroke-width="1" stroke-opacity=".4"/>
+<text class="cp" x="320" y="120" text-anchor="middle" font-family="'Arial Black',Impact,sans-serif" font-size="46" font-weight="900" fill="#7b2fff" filter="url(#fp)">4</text>
+<text x="320" y="144" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#8b949e" letter-spacing="2">PULL REQUESTS</text>
+
+<!-- Stars -->
+<rect x="430" y="52" width="190" height="100" rx="10" fill="rgba(255,107,53,.07)" stroke="#ff6b35" stroke-width="1" stroke-opacity=".4"/>
+<text class="co" x="525" y="120" text-anchor="middle" font-family="'Arial Black',Impact,sans-serif" font-size="46" font-weight="900" fill="#ff6b35" filter="url(#fo)">0</text>
+<text x="525" y="144" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#8b949e" letter-spacing="2">STARS EARNED</text>
+
+<!-- Repos -->
+<rect x="635" y="52" width="205" height="100" rx="10" fill="rgba(88,166,255,.07)" stroke="#58a6ff" stroke-width="1" stroke-opacity=".4"/>
+<text class="cb" x="737" y="120" text-anchor="middle" font-family="'Arial Black',Impact,sans-serif" font-size="46" font-weight="900" fill="#58a6ff" filter="url(#fb)">2</text>
+<text x="737" y="144" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#8b949e" letter-spacing="2">REPOSITORIES</text>
+
+<!-- Divider -->
+<line x1="20" y1="168" x2="840" y2="168" stroke="#1e3a4a" stroke-width="1"/>
+
+<!-- LANGUAGES SECTION -->
+<text x="430" y="192" text-anchor="middle" font-family="'Arial Black',sans-serif" font-size="13" font-weight="900" letter-spacing="3" fill="#00d4ff" filter="url(#fc)" class="pu">MOST USED LANGUAGES</text>
+
+<!-- Language bar -->
+<rect x="20" y="204" width="560" height="10" rx="5" fill="#21262d"/>
+<g transform="translate(20,204)" clip-path="url(#barclip)">
+  <rect x="0.0" y="0" width="457.5" height="10" rx="5" fill="#f1e05a"/><rect x="457.5" y="0" width="98.0" height="10" rx="5" fill="#663399"/><rect x="555.5" y="0" width="4.5" height="10" rx="5" fill="#e34c26"/>
+</g>
+<clipPath id="barclip"><rect width="560" height="10" rx="5"/></clipPath>
+
+<!-- Language legend -->
+<g transform="translate(30, 228)">
+  <circle cx="6" cy="6" r="6" fill="#f1e05a"/>
+<text x="18" y="11" font-family="Arial,sans-serif" font-size="13" fill="#e6edf3">JavaScript <tspan fill="#8b949e">81.7%</tspan></text><circle cx="206" cy="6" r="6" fill="#663399"/>
+<text x="218" y="11" font-family="Arial,sans-serif" font-size="13" fill="#e6edf3">CSS <tspan fill="#8b949e">17.5%</tspan></text><circle cx="406" cy="6" r="6" fill="#e34c26"/>
+<text x="418" y="11" font-family="Arial,sans-serif" font-size="13" fill="#e6edf3">HTML <tspan fill="#8b949e">0.8%</tspan></text>
+</g>
+
+<!-- Followers -->
+<rect x="620" y="185" width="220" height="60" rx="8" fill="rgba(0,212,255,.06)" stroke="#00d4ff" stroke-width=".8" stroke-opacity=".3"/>
+<text class="cn" x="730" y="225" text-anchor="middle" font-family="'Arial Black',sans-serif" font-size="32" font-weight="900" fill="#00d4ff" filter="url(#fc)">2</text>
+<text x="730" y="242" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#8b949e" letter-spacing="2">FOLLOWERS</text>
+
+<!-- Bottom border -->
+<line x1="20" y1="410" x2="840" y2="410" stroke="#1e3a4a" stroke-width="1"/>
+<text x="430" y="425" text-anchor="middle" font-family="'JetBrains Mono','Courier New',monospace" font-size="10" fill="#8b949e">⚡ Real GitHub data · Auto-updates every 6h · anshjdev</text>
+</svg>
