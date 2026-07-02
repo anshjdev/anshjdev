@@ -1,0 +1,20 @@
+name: 📊 Generate GitHub Stats Cards
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # Har 6 ghante update
+  workflow_dispatch:          # Manually bhi run kar sakte ho
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: 📊 Generate Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
