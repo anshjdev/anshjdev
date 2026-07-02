@@ -153,9 +153,20 @@ Next: AWS Cloud Practitioner · Google Cloud AI · Microsoft AI-900
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats-eight-tau.vercel.app/api?username=anshjdev&show_icons=true&hide_border=false&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=7b2fff&ring_color=00d4ff" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="195" src="https://github-readme-stats-eight-tau.vercel.app/api/top-langs/?username=anshjdev&layout=compact&hide_border=false&bg_color=0d1117&border_color=7b2fff&title_color=7b2fff&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+<!-- Stats generated via GitHub Actions — always works, never rate-limited -->
+<img src="https://raw.githubusercontent.com/anshjdev/anshjdev/profile-summary-card-output/cards/0-profile-details.svg" width="100%" alt="Profile Details"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/anshjdev/anshjdev/profile-summary-card-output/cards/1-repos-per-language.svg" width="49%" alt="Repos Per Language"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/anshjdev/anshjdev/profile-summary-card-output/cards/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/anshjdev/anshjdev/profile-summary-card-output/cards/3-stats.svg" width="49%" alt="Stats"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/anshjdev/anshjdev/profile-summary-card-output/cards/4-productive-time.svg" width="49%" alt="Productive Time"/>
 
 <br/><br/>
 
