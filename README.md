@@ -153,9 +153,9 @@ Next: AWS Cloud Practitioner · Google Cloud AI · Microsoft AI-900
 
 <div align="center">
 
-<img height="195" src="https://github-readme-stats.vercel.app/api?username=anshjdev&show_icons=true&hide_border=false&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=7b2fff&ring_color=00d4ff" alt="GitHub Stats"/>
+<img height="195" src="https://github-readme-stats-eight-tau.vercel.app/api?username=anshjdev&show_icons=true&hide_border=false&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=7b2fff&ring_color=00d4ff" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshjdev&layout=compact&hide_border=false&bg_color=0d1117&border_color=7b2fff&title_color=7b2fff&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+<img height="195" src="https://github-readme-stats-eight-tau.vercel.app/api/top-langs/?username=anshjdev&layout=compact&hide_border=false&bg_color=0d1117&border_color=7b2fff&title_color=7b2fff&text_color=ffffff&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
