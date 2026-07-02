@@ -153,8 +153,8 @@ Next: AWS Cloud Practitioner · Google Cloud AI · Microsoft AI-900
 
 <div align="center">
 
-<!-- Generated via GitHub Actions every 6hrs — real data, never breaks -->
-<img src="https://raw.githubusercontent.com/anshjdev/anshjdev/main/Assets/metrics.svg" width="100%" alt="GitHub Metrics"/>
+<!-- Custom neon stats — real GitHub data via Actions, updates every 6h -->
+<img src="https://raw.githubusercontent.com/anshjdev/anshjdev/main/Assets/github-stats.svg" width="100%" alt="GitHub Stats"/>
 
 <br/><br/>
 
