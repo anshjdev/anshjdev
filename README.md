@@ -153,20 +153,8 @@ Next: AWS Cloud Practitioner · Google Cloud AI · Microsoft AI-900
 
 <div align="center">
 
-<!-- Stats generated via GitHub Actions — always works, never rate-limited -->
-<img src="https://raw.githubusercontent.com/anshjdev/anshjdev/profile-summary-card-output/cards/0-profile-details.svg" width="100%" alt="Profile Details"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/anshjdev/anshjdev/profile-summary-card-output/cards/1-repos-per-language.svg" width="49%" alt="Repos Per Language"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/anshjdev/anshjdev/profile-summary-card-output/cards/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/anshjdev/anshjdev/profile-summary-card-output/cards/3-stats.svg" width="49%" alt="Stats"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/anshjdev/anshjdev/profile-summary-card-output/cards/4-productive-time.svg" width="49%" alt="Productive Time"/>
+<!-- Generated via GitHub Actions every 6hrs — real data, never breaks -->
+<img src="https://raw.githubusercontent.com/anshjdev/anshjdev/main/Assets/metrics.svg" width="100%" alt="GitHub Metrics"/>
 
 <br/><br/>
 
