@@ -158,7 +158,7 @@ Next: AWS Cloud Practitioner · Google Cloud AI · Microsoft AI-900
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshjdev&hide_border=false&background=0D1117&border=00D4FF&stroke=00D4FF&ring=7B2FFF&fire=FF6B35&currStreakNum=00D4FF&sideNums=FFFFFF&currStreakLabel=7B2FFF&sideLabels=00D4FF&dates=8B949E" alt="GitHub Streak"/>
+<img width="100%" src="https://raw.githubusercontent.com/anshjdev/anshjdev/main/Assets/github-streak.svg" alt="GitHub Streak"/>
 
 </div>
 
