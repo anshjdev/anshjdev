@@ -40,7 +40,7 @@
 <!-- STAT CARDS ROW -->
 <!-- Commits -->
 <rect x="20" y="52" width="190" height="100" rx="10" fill="rgba(0,212,255,.07)" stroke="#00d4ff" stroke-width="1" stroke-opacity=".4"/>
-<text class="cn" x="115" y="120" text-anchor="middle" font-family="'Arial Black',Impact,sans-serif" font-size="46" font-weight="900" fill="#00d4ff" filter="url(#fc)">240</text>
+<text class="cn" x="115" y="120" text-anchor="middle" font-family="'Arial Black',Impact,sans-serif" font-size="46" font-weight="900" fill="#00d4ff" filter="url(#fc)">245</text>
 <text x="115" y="144" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" fill="#8b949e" letter-spacing="2">COMMITS</text>
 
 <!-- PRs -->
@@ -67,16 +67,16 @@
 <!-- Language bar -->
 <rect x="20" y="204" width="560" height="10" rx="5" fill="#21262d"/>
 <g transform="translate(20,204)" clip-path="url(#barclip)">
-  <rect x="0.0" y="0" width="509.6" height="10" rx="5" fill="#f1e05a"/><rect x="509.6" y="0" width="27.4" height="10" rx="5" fill="#e34c26"/><rect x="537.0" y="0" width="23.0" height="10" rx="5" fill="#663399"/>
+  <rect x="0.0" y="0" width="510.7" height="10" rx="5" fill="#f1e05a"/><rect x="510.7" y="0" width="26.9" height="10" rx="5" fill="#e34c26"/><rect x="537.6" y="0" width="22.4" height="10" rx="5" fill="#663399"/>
 </g>
 <clipPath id="barclip"><rect width="560" height="10" rx="5"/></clipPath>
 
 <!-- Language legend -->
 <g transform="translate(30, 228)">
   <circle cx="6" cy="6" r="6" fill="#f1e05a"/>
-<text x="18" y="11" font-family="Arial,sans-serif" font-size="13" fill="#e6edf3">JavaScript <tspan fill="#8b949e">91.0%</tspan></text><circle cx="206" cy="6" r="6" fill="#e34c26"/>
-<text x="218" y="11" font-family="Arial,sans-serif" font-size="13" fill="#e6edf3">HTML <tspan fill="#8b949e">4.9%</tspan></text><circle cx="406" cy="6" r="6" fill="#663399"/>
-<text x="418" y="11" font-family="Arial,sans-serif" font-size="13" fill="#e6edf3">CSS <tspan fill="#8b949e">4.1%</tspan></text>
+<text x="18" y="11" font-family="Arial,sans-serif" font-size="13" fill="#e6edf3">JavaScript <tspan fill="#8b949e">91.2%</tspan></text><circle cx="206" cy="6" r="6" fill="#e34c26"/>
+<text x="218" y="11" font-family="Arial,sans-serif" font-size="13" fill="#e6edf3">HTML <tspan fill="#8b949e">4.8%</tspan></text><circle cx="406" cy="6" r="6" fill="#663399"/>
+<text x="418" y="11" font-family="Arial,sans-serif" font-size="13" fill="#e6edf3">CSS <tspan fill="#8b949e">4.0%</tspan></text>
 </g>
 
 <!-- Followers -->
