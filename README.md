@@ -23,7 +23,7 @@
 <br/><br/>
 
 <!-- ══════════════ SOCIAL LINKS ══════════════ -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anshjaiswal1-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/ansh-jaiswal-baarii/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anshjaiswal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/ansh-jaiswal-baarii/)
 [![Gmail](https://img.shields.io/badge/Email-jaiswalansh294@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:jaiswalansh294@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-anshjdev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/anshjdev)
 
@@ -216,7 +216,7 @@ Open_To: SWE Internships · AI/ML Roles · Hackathons · Open Source
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-anshjaiswal1-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/ansh-jaiswal-baarii/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anshjaiswal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/ansh-jaiswal-baarii/)
 [![Email](https://img.shields.io/badge/Email-jaiswalansh294@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:jaiswalansh294@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-anshjdev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/anshjdev)
 
